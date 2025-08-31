@@ -2,6 +2,8 @@
 
 An AI-powered financial assistant that provides real-time information about stocks, cryptocurrencies, and market news using Streamlit and LangChain.
 
+<img width="1366" height="768" alt="Screenshot (1205)" src="https://github.com/user-attachments/assets/7d9dcbdf-4d1a-4f46-8e70-4bd20b913d4d" />
+
 ## Features
 
 - 📈 Real-time stock price lookups
@@ -79,5 +81,6 @@ streamlit run streamlit_app.py
 - fastmcp: Message Communication Protocol
 
 ## License
+
 
 This project is licensed under the MIT License - see the LICENSE file for details.
